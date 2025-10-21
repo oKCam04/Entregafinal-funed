@@ -55,7 +55,7 @@ Entregafinal-funed/
   - Instalar dependencias: `npm install`.
   - Ejecutar la aplicación: `npm run dev` (o el script definido).
 - Docker:
-  - Consultar `DOCUMENTACIÓN/Instalador Docker.pdf` para la guía de instalación y ejecución.
+  - Consultar `DOCUMENTACIÓN/Instalador Docker.pdf` para la guía de instalación y ejecución. 
 
 ## Documentación
 - Manual de Usuario: guía de uso del sistema.
