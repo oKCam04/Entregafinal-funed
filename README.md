@@ -53,7 +53,7 @@ Entregafinal-funed/
 - Frontend:
   - Ir a `FRONTED/proyecto-funed-frontend-r/funed-fronted`.
   - Instalar dependencias: `npm install`.
-  - Ejecutar la aplicación: `npm start` (o el script definido).
+  - Ejecutar la aplicación: `npm run dev` (o el script definido).
 - Docker:
   - Consultar `DOCUMENTACIÓN/Instalador Docker.pdf` para la guía de instalación y ejecución.
 
